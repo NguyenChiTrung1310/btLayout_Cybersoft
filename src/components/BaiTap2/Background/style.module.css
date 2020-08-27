@@ -1,0 +1,13 @@
+.Background {
+    background-color: #333333a6;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.bgImg {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+}
